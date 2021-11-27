@@ -1,0 +1,22 @@
+.navbar {
+  display: flex;
+  padding: 2rem;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  border: 3px solid rgb(134, 19, 19);
+  background-color: rgba(0, 0, 0, 0.315);
+}
+
+.search-bar {
+  font-size: large;
+  outline: none;
+  border: none;
+  background: none;
+  height: 37px;
+  width: 200px;
+  border-radius: 9px;
+  color: yellow;
+  background-color: rgba(0, 0, 0, 0.315);
+  /* color: #eee; */
+}

@@ -1,0 +1,10 @@
+.movie-list {
+  padding: 2rem;
+  display: flex;
+  flex-wrap: wrap;
+  background-color: #243240;
+}
+.movie-list :hover {
+  background-color: brown;
+  box-shadow: 1px 1px rgba(0, 0, 0, 0.856);
+}

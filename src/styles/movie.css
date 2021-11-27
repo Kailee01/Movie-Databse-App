@@ -1,0 +1,12 @@
+.buttnMovie {
+  background-color: blue;
+  height: 40px;
+  width: 200px;
+  margin-left: 670px;
+  font-size: large;
+  color: white;
+  border-radius: 17px;
+}
+.buttnMovie :hover {
+  background-color: green;
+}
